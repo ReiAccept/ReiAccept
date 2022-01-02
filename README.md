@@ -1,6 +1,6 @@
-<img align="left" width="300" src="https://github.com/Spacelessd/Spacelessd/raw/master/noeru.jpg" />
+<img align="left" width="300" src="https://cdn.jsdelivr.net/gh/ACRei/ACRei/noeru.png" />
 
-# 算法竞赛败犬,然后左边的是诺艾尔
+# 算法竞赛败犬,然后头像是诺艾尔不是珂朵莉
 
 曾用ID : Spaceless
 
