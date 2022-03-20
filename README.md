@@ -1,5 +1,3 @@
-<img align="left" width="300" src="https://cdn.jsdelivr.net/gh/ACRei/ACRei/noeru.png" />
-
 # 算法竞赛退役,然后头像是诺艾尔不是珂朵莉
 
 [![Codeforces Rating](https://cfrating.ihcr.top/?user=ReiAC&style=flat-square)](https://codeforces.com/profile/ReiAC)
