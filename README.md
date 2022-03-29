@@ -12,4 +12,4 @@
   
 头像是诺艾尔不是珂朵莉qwq
 
-[![Codeforces Rating](https://cfrating.ihcr.top/?user=ReiAC)](https://codeforces.com/profile/ReiAC)
+[![Codeforces Rating](https://cfrating.baoshuo.dev/rating?username=ReiAC)](https://codeforces.com/profile/ReiAC)
