@@ -11,5 +11,7 @@
 曾用 ID : Spaceless
   
 头像是诺艾尔不是珂朵莉qwq
+  
+Telegram Channel: [Rei.摸鱼日常](https://t.me/ReiOnTheLoaf)
 
 [![Codeforces Rating](https://cfrating.baoshuo.dev/rating?username=ReiAC)](https://codeforces.com/profile/ReiAC)
