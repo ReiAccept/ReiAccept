@@ -6,11 +6,7 @@
 
 <div align=left>
   
-本科大三，计算机科学与技术专业
-  
-曾用 ID : Spaceless
-  
-头像是诺艾尔不是珂朵莉qwq
+Bachelor, major in Computer Science
   
 Telegram Channel: [Rei.摸鱼日常](https://t.me/ReiOnTheLoaf)
 
