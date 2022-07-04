@@ -17,12 +17,14 @@ Telegram Channel: [Rei.摸鱼日常](https://t.me/ReiOnTheLoaf)
 
 #### Platform
 
+![Microsoft Surface](https://img.shields.io/static/v1?style=for-the-badge&message=Surface%20Pro7&color=5E5E5E&logo=Microsoft&logoColor=FFFFFF&label=)
 ![Windows 11](https://img.shields.io/static/v1?style=for-the-badge&message=Windows%2011&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
-![macOS Monterey](https://img.shields.io/static/v1?style=for-the-badge&message=macOS%20Monterey&color=000000&logo=macOS&logoColor=FFFFFF&label=)
-![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=222222&logo=Manjaro&logoColor=35BF5C&label=)
 
 ![OMEN by HP Laptop 17-cb0xxx](https://img.shields.io/static/v1?style=for-the-badge&message=HP%20OMEN%2017-cb0xxx&color=0096D6&logo=HP&logoColor=FFFFFF&label=)
-![Microsoft Surface](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft%20Surface%20Pro7&color=5E5E5E&logo=Microsoft&logoColor=FFFFFF&label=)
+![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=222222&logo=Manjaro&logoColor=35BF5C&label=)
+
+![MacBookPro 2017](https://img.shields.io/static/v1?style=for-the-badge&message=MacBookPro%202017&color=000000&logo=Apple&logoColor=FFFFFF&label=)
+![macOS Monterey](https://img.shields.io/static/v1?style=for-the-badge&message=macOS%20Monterey&color=000000&logo=macOS&logoColor=FFFFFF&label=)
 
 ![Xiaomi 10 Pro](https://img.shields.io/static/v1?style=for-the-badge&message=Xiaomi%2010%20Pro&color=FF6900&logo=Xiaomi&logoColor=FFFFFF&label=)
 ![iPhone SE3](https://img.shields.io/static/v1?style=for-the-badge&message=iPhone%20SE3&color=000000&logo=iOS&logoColor=FFFFFF&label=)
