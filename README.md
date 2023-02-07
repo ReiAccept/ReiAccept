@@ -1,4 +1,4 @@
-## Hi, Rei there! 👋
+## Hi! 👋
 
 <img align=right alt="Rei's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=ACRei&show_icons=true">
 
