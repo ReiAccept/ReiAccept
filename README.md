@@ -5,8 +5,6 @@
 <div align=left>
   
 Retired ICPCer / AtCoder&Codeforces Player / Undergraduate Student / Archlinux User
-  
-[Personal Website](https://rei.ac)
 
 #### Codeforces
 
