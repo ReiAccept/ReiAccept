@@ -6,7 +6,7 @@
   
 Retired ICPCer / AtCoder&Codeforces Player / Undergraduate Student / Archlinux User
   
-Telegram Channel: [Rei.摸鱼日常](https://t.me/ReiOnTheLoaf)
+[Personal Website](https://rei.ac)
 
 #### Codeforces
 
