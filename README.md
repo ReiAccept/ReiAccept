@@ -11,4 +11,3 @@ In Hebrew, the name Rei (רעי Re`iY) originates in biblical texts which mean "
 #### Codeforces
 
 [![Codeforces Rating](https://cfrating.baoshuo.dev/rating?username=ReiAC)](https://codeforces.com/profile/ReiAC)
-[![Codeforces Rating](https://cfrating.baoshuo.dev/rating?username=ACMagic)](https://codeforces.com/profile/ACMagic)
