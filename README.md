@@ -1,5 +1,5 @@
 ## Hi! 👋
-Retired ICPCer / AtCoder&Codeforces Player / Undergraduate Student / Archlinux User
+Retired ICPCer / AtCoder&Codeforces Player / Archlinux User
 
 In Hebrew, the name Rei (רעי Re`iY) originates in biblical texts which mean "my shepherd; my companion; my friend".  
 
